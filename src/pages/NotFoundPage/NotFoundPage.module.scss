@@ -1,0 +1,13 @@
+@use '../../styles/main.scss' as *;
+
+.container {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.notFound {
+  max-height: 500px;
+  max-width: 500px;
+}

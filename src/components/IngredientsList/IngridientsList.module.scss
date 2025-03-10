@@ -1,0 +1,32 @@
+.ingredients {
+  margin-top: 20px;
+  padding: 20px;
+  background: #fff8e1;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.ingredients__title {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #d32f2f;
+}
+
+.ingredients__list {
+  list-style: none;
+  padding: 0;
+}
+
+.ingredients__item {
+  font-size: 18px;
+  padding: 5px 0;
+  display: flex;
+  align-items: center;
+}
+
+.ingredients__bullet {
+  font-size: 22px;
+  margin-right: 8px;
+  color: #d32f2f;
+}
